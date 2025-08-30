@@ -18,28 +18,18 @@ Frontend: HTML, CSS, Chart.js
 ## 🚀 Como Executar
 Siga os passos abaixo para rodar o projeto localmente.
 
-Pré-requisitos
-Python 3.6+
-
 Guia Rápido
 1. Prepare o Ambiente
-* Ambiente virtual
 * python -m venv venv
   * macOS/Linux: source venv/bin/activate  
   ou
   * Windows: .\venv\Scripts\activate  
 
 2. Instale as Dependências
-
-  * Instale o Flask com o seguinte comando:
   * pip install Flask
 
 3. Execute a Aplicação
-
-* Inicie o servidor Flask:
-
 * python app.py
 
 4. Acesse o Dashboard
-
-Abra seu navegador e acesse a [Página Dashboard](https://localhost);
+* Abra seu navegador e acesse a [Página Dashboard](https://localhost);
