@@ -26,7 +26,7 @@ Guia Rápido
 
 Salve o arquivo app.py em uma pasta, abra o terminal nesse local e crie um ambiente virtual:
 
-# Cria e ativa o ambiente virtual
+# Ambiente virtual
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 # ou
