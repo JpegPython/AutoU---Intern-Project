@@ -28,9 +28,9 @@ Salve o arquivo app.py em uma pasta, abra o terminal nesse local e crie um ambie
 
 # Ambiente virtual
 python -m venv venv
-  * source venv/bin/activate  # macOS/Linux
+  * !source venv/bin/activate  # macOS/Linux
   ou
-  * .\venv\Scripts\activate  # Windows
+  * !.\venv\Scripts\activate  # Windows
 
 2. Instale as Dependências
 
