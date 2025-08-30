@@ -23,14 +23,11 @@ Python 3.6+
 
 Guia Rápido
 1. Prepare o Ambiente
-
-Salve o arquivo app.py em uma pasta, abra o terminal nesse local e crie um ambiente virtual:
-
-# Ambiente virtual
-python -m venv venv
-  * macOS/Linux: source venv/bin/activate  
+* Ambiente virtual
+* python -m venv venv
+  ** macOS/Linux: source venv/bin/activate  
   ou
-  * Windows: .\venv\Scripts\activate  
+  ** Windows: .\venv\Scripts\activate  
 
 2. Instale as Dependências
 
