@@ -46,5 +46,4 @@ python app.py
 
 4. Acesse o Dashboard
 
-Abra seu navegador e acesse o localhost:
-* [Página Dashboard](https://localhost);
+Abra seu navegador e acesse a [Página Dashboard](https://localhost);
