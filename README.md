@@ -1,7 +1,7 @@
-### Projeto de Gestão de Obras - Dashboard AutoU
+# Projeto de Gestão de Obras - Dashboard AutoU
 Este projeto é uma aplicação web desenvolvida com Flask que apresenta um dashboard interativo para acompanhamento de métricas de projetos ágeis, como parte de um desafio da AutoU.
 
-### ✨ Funcionalidades
+## ✨ Funcionalidades
 KPIs Visuais: Acompanhe o progresso da Sprint, a velocity e outras métricas.
 
 Gráfico de Burndown: Monitore o trabalho restante versus o tempo.
@@ -10,12 +10,12 @@ Histórico de Velocity: Analise a capacidade de entrega do time.
 
 Status das Histórias: Visualize o andamento das tarefas da Sprint atual.
 
-### 💻 Stack Tecnológica
+## 💻 Stack Tecnológica
 Backend: Python + Flask
 
 Frontend: HTML, Tailwind CSS, Chart.js
 
-### 🚀 Como Executar
+## 🚀 Como Executar
 Siga os passos abaixo para rodar o projeto localmente.
 
 Pré-requisitos
