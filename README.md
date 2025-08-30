@@ -28,15 +28,15 @@ Salve o arquivo app.py em uma pasta, abra o terminal nesse local e crie um ambie
 
 # Ambiente virtual
 python -m venv venv
-source venv/bin/activate  # macOS/Linux
-ou
-.\venv\Scripts\activate  # Windows
+  * source venv/bin/activate  # macOS/Linux
+  ou
+  * .\venv\Scripts\activate  # Windows
 
 2. Instale as Dependências
 
-Instale o Flask com o seguinte comando:
-
-pip install Flask
+  Instale o Flask com o seguinte comando:
+  
+  pip install Flask
 
 3. Execute a Aplicação
 
