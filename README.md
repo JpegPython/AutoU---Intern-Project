@@ -13,7 +13,7 @@ Status das Histórias: Visualize o andamento das tarefas da Sprint atual.
 ## 💻 Stack Tecnológica
 Backend: Python + Flask
 
-Frontend: HTML, Tailwind CSS, Chart.js
+Frontend: HTML, CSS, Chart.js
 
 ## 🚀 Como Executar
 Siga os passos abaixo para rodar o projeto localmente.
