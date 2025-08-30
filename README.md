@@ -34,15 +34,14 @@ python -m venv venv
 
 2. Instale as Dependências
 
-  Instale o Flask com o seguinte comando:
-  
-  pip install Flask
+  * Instale o Flask com o seguinte comando:
+  * pip install Flask
 
 3. Execute a Aplicação
 
-Inicie o servidor Flask:
+* Inicie o servidor Flask:
 
-python app.py
+* python app.py
 
 4. Acesse o Dashboard
 
